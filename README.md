@@ -1,7 +1,7 @@
 ---
 ### College Project
-- [GitHub Repository](https://github.com/KrishnaBishowkarma/CollegeProject)
-  - Description: A college project showcasing web development skills using HTML, CSS, and JavaScript.
+ [GitHub Repository](https://github.com/KrishnaBishowkarma/CollegeProject)
+   Description: A college project showcasing web development skills using HTML, CSS, and JavaScript.
   
 #### How to Run the College Project
 1. **Clone the Repository**
